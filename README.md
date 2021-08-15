@@ -1,9 +1,7 @@
 # Cobot-19
 <br>
 ```
-Project made for: Techweek, IIT Kanpur.
-Project by: Team PHØENIX
-Members: Sweta, Shreya, Pranshu, Utkarsh and me.
+P
 ```
 <br>
 <b>Details:</b>
