@@ -1,5 +1,4 @@
 # Cobot-19
-<br>
 ``` 
 Project made for: Techweek, IIT Kanpur.
 Project by: Team PHØENIX
