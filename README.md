@@ -1,10 +1,10 @@
 # Cobot-19
 <br>
-`
+``
 Project made for: Techweek, IIT Kanpur.
 Project by: Team PHØENIX
 Members: Sweta, Shreya, Pranshu, Utkarsh and me.
-`
+``
 <br>
 ##Details:
 It is a simple bot which displays precautions, and symptoms based on the data recieved by user. Also, at last it ask for a\feedback and recieves it from the user.
