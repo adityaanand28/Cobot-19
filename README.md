@@ -6,8 +6,8 @@ Project by: Team PHØENIX
 Members: Sweta, Shreya, Pranshu, Utkarsh and me.
 ```
 <br>
-<b>Details:</b>
+##Details:
 It is a simple bot which displays precautions, and symptoms based on the data recieved by user. Also, at last it ask for a\feedback and recieves it from the user.
 <br>
-<b>Salient feature:</b>
+##Salient feature:
 It extracts real time data from mohfw website, and displays the data as a output based on the state entered.
